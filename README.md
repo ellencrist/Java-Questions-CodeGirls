@@ -1,2 +1,2 @@
-# dio-desafio-github-1
+Repositório Code Girls
 desafio de projeto sobre GitHub
