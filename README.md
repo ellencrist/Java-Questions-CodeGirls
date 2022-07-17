@@ -1,2 +1,2 @@
 #Repositório Code Girls
-desafio de projeto sobre GitHub
+1º Projeto Java Bootcamp Code Girls Santander
